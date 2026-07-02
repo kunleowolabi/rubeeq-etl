@@ -1,0 +1,88 @@
+{
+  "document_type": "research_paper",
+  "confidence": "high",
+  "fields": {
+    "title": "Detection of mold on the food surface using YOLOv5",
+    "journal": "Current Research in Food Science",
+    "volume": 4,
+    "year": 2021,
+    "pages": "724\u2013728",
+    "communication_type": "Short Communication",
+    "authors": [
+      {
+        "name": "Fahad Jubayer",
+        "affiliation": "Department of Food Engineering and Technology, Sylhet Agricultural University, Sylhet, 3100, Bangladesh",
+        "corresponding_author": true,
+        "equal_contribution": true,
+        "email": [
+          "fahadbau21@hotmail.com",
+          "jubayer.fet@sau.ac.bd"
+        ]
+      },
+      {
+        "name": "Janibul Alam Soeb",
+        "affiliation": "Department of Farm Power and Machinery, Sylhet Agricultural University, Sylhet, 3100, Bangladesh",
+        "equal_contribution": true
+      },
+      {
+        "name": "Abu Naser Mojumder",
+        "affiliation": "Department of Computer Science and Engineering, Sylhet Engineering College, Sylhet, 3100, Bangladesh"
+      },
+      {
+        "name": "Mitun Kanti Paul",
+        "affiliation": "Department of Electrical and Electronic Engineering, Sylhet Engineering College, Sylhet, 3100, Bangladesh"
+      },
+      {
+        "name": "Pranta Barua",
+        "affiliation": "Department of Electrical and Electronic Engineering, Sylhet Engineering College, Sylhet, 3100, Bangladesh"
+      },
+      {
+        "name": "Shahidullah Kayshar",
+        "affiliation": "Department of Food Engineering and Technology, Sylhet Agricultural University, Sylhet, 3100, Bangladesh"
+      },
+      {
+        "name": "Syeda Sabrina Akter",
+        "affiliation": "Department of Food Engineering and Technology, Sylhet Agricultural University, Sylhet, 3100, Bangladesh"
+      },
+      {
+        "name": "Mizanur Rahman",
+        "affiliation": "Department of Farm Power and Machinery, Sylhet Agricultural University, Sylhet, 3100, Bangladesh"
+      },
+      {
+        "name": "Amirul Islam",
+        "affiliation": "Department of Farm Power and Machinery, Sylhet Agricultural University, Sylhet, 3100, Bangladesh"
+      }
+    ],
+    "keywords": [
+      "YOLOv5",
+      "Object detection",
+      "Mold",
+      "Food spoilage",
+      "Deep learning"
+    ],
+    "abstract": "The study aimed to identify different molds that grow on various food surfaces. As a result, we conducted a case study for the detection of mold on food surfaces based on the \"you only look once (YOLO) v5\" principle. In this context, a dataset of 2050 food images with mold growing on their surfaces was created. Images were obtained from our own laboratory (850 images) as well as from the internet (1200 images). The dataset was trained using the pre-trained YOLOv5 algorithm. A laboratory test was also performed to confirm that the grown organisms were mold. In comparison to YOLOv3 and YOLOv4, this current YOLOv5 model had better precision, recall, and average precision (AP), which were 98.10%, 100%, and 99.60%, respectively. The YOLOv5 algorithm was used for the first time in this study to detect mold on food surfaces. In conclusion, the proposed model successfully recognizes any kind of mold present on the food surface. Using YOLOv5, we are currently conducting research to identify the specific species of the detected mold.",
+    "dataset_total_images": 2050,
+    "dataset_laboratory_images": 850,
+    "dataset_internet_images": 1200,
+    "image_format": "JPG",
+    "camera_used": "GoPro HERO 9 5K Ultra HD",
+    "annotation_tool": "LabelImg",
+    "model_precision": 98.1,
+    "model_recall": 100,
+    "model_average_precision": 99.6,
+    "doi": "https://doi.org/10.1016/j.crfs.2021.10.003",
+    "received_date": "2021-07-24",
+    "revised_date": "2021-10-07",
+    "accepted_date": "2021-10-08",
+    "available_online_date": "2021-10-16",
+    "issn": "2665-9271",
+    "publisher": "Elsevier B.V.",
+    "license": "CC BY-NC-ND 4.0"
+  },
+  "line_items": null,
+  "metadata": {
+    "title": "Detection of mold on the food surface using YOLOv5",
+    "date": "2021-10-16",
+    "language": "en"
+  }
+}
